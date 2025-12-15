@@ -140,8 +140,8 @@ This framework is being shared with the open source community for feedback and r
 - Sovereign Tech Agency (operational expertise)
 
 **Timeline:**
-- Early January 2025: Community engagement (Reddit, Bluesky, Mastodon)
-- Mid-January 2025: Approach advocacy organizations
+- Early January 2026: Community engagement (Reddit, Bluesky, Mastodon)
+- Mid-January 2026: Approach advocacy organizations
 - Q1 2026: EU budget negotiations conclude (critical window)
 
 ---
