@@ -129,7 +129,7 @@ Alliance funding enables migration away from vendor lock-in, making ROI positive
 
 ## Current Status
 
-**Phase: Community Feedback (December 2024)**
+**Phase: Community Feedback (December 2025)**
 
 This framework is being shared with the open source community for feedback and refinement before approaching professional advocacy organizations in January 2025.
 
@@ -276,7 +276,7 @@ Standing on shoulders of giants. Errors and omissions are mine alone.
 
 ## Version History
 
-**v1.0 (December 2024):** Initial public release for community feedback
+**v1.0 (December 2025):** Initial public release for community feedback
 
 ---
 
