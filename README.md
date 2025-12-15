@@ -286,4 +286,4 @@ Standing on shoulders of giants. Errors and omissions are mine alone.
 
 **Repository:** https://github.com/digital-infrastructure-alliance/digital-infrastructure-alliance
 
-**Last Updated:** December 14, 2024
+**Last Updated:** December 14, 2025
