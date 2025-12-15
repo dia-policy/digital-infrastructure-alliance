@@ -284,6 +284,6 @@ Standing on shoulders of giants. Errors and omissions are mine alone.
 
 **Status:** Community feedback phase → Advocacy outreach planned January 2025
 
-**Repository:** https://github.com/digital-infrastructure-alliance/digital-infrastructure-alliance
+**Repository:** [https://github.com/digital-infrastructure-alliance/digital-infrastructure-alliance](https://github.com/dia-policy/digital-infrastructure-alliance)
 
 **Last Updated:** December 14, 2025
